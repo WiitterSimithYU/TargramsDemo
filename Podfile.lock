@@ -1,0 +1,28 @@
+PODS:
+  - LazyScroll (1.0.0):
+    - TMUtils (~> 1.0)
+  - SDWebImage (4.2.3):
+    - SDWebImage/Core (= 4.2.3)
+  - SDWebImage/Core (4.2.3)
+  - Tangram (2.1.1):
+    - LazyScroll (~> 1.0)
+    - SDWebImage (~> 4.2)
+    - VirtualView (~> 1.1)
+  - TMUtils (1.0.0)
+  - VirtualView (1.1.0):
+    - SDWebImage (~> 4.2)
+
+DEPENDENCIES:
+  - SDWebImage (~> 4.2.0)
+  - Tangram (~> 2.1.1)
+
+SPEC CHECKSUMS:
+  LazyScroll: ff021cf69b5b53c7dac7d65a79ee775175bcc624
+  SDWebImage: 791bb72962b3492327ddcac4b1880bd1b5458431
+  Tangram: 6505d1ef1939e39a318d087bc280a0aa64d57cb7
+  TMUtils: 2b8964a5ff58183b9bf3cbdf64f89b2e4b2c498d
+  VirtualView: fd88740496c041ce70411da744040980aedb02f5
+
+PODFILE CHECKSUM: 671dd8611a4c410f446f57374e86de0d3c80631a
+
+COCOAPODS: 1.3.1
